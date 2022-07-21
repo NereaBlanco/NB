@@ -1,0 +1,4 @@
+[submodule "bangtl/hr_organizational_chart"]
+	path = bangtl/hr_organizational_chart
+	url = git@github.com:bangtl/hr_organizational_chart.git
+	branch = main
